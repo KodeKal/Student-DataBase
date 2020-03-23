@@ -1,2 +1,4 @@
 # Student-DataBase
-This application focuses on utilizing Java to implement a database of students. Databases are the most efficient ways of storing and accessing data in many industries, making the skills to engineer and build one of the most valuable skills in software engineering. A good database application requires methods of maintaining the DB such as, inserting, deleting and updating the data stored.  It must be equipped with methods of sorting and preforming searches using different attributes of a student. 
+Object Oriented Programing Assignment
+
+This application utilizes Java's object oriented programing to implement a database of students. This database application sets out to provide methods of maintaining(inserting, deleting and updating) a database, as well as be equipped with methods of sorting and preforming searches using different attributes of an entitiy. Databases are the most efficient ways of storing and accessing data in many industries, making the skill to engineer and build one important in software engineering. This project serves as a template to start and create a fully functioning database that is implementable in the workplace.
